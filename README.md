@@ -7,3 +7,4 @@ This project focuses in predicting the future sales amount earned via advertisin
 * Predictive Modelling
 * Machine Learning
 * Predictive Analytics
+* Multivariate Linear Regression
